@@ -1,6 +1,6 @@
 ﻿using EF015.QueryData.Data;
 using Microsoft.EntityFrameworkCore;
-
+ 
 namespace C01.QueryData
 {
     class Program
